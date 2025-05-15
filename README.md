@@ -2,7 +2,9 @@
 
 ## Instructions
 
-run from x11 cant seem to get working on wayland
+run from x11. Cant seem to get working on wayland
+
+runs fine on qemu
 
 Install jre8
 ```
